@@ -1,0 +1,3 @@
+[submodule "theme"]
+	path = attila
+	url = git@github.com:arulrajnet/attila.git

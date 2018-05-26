@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Guilhem Saurel'
 SITENAME = 'Baroustan'
-SITEURL = ''
+# SITEURL = 'https://baroustan.org'
 
 PATH = 'content'
 
@@ -33,3 +33,7 @@ DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME = 'attila'
+HEADER_COVER = 'images/header.jpg'
+STATIC_PATHS = ['images']
