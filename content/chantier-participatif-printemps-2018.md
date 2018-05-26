@@ -15,6 +15,11 @@ La partie nécessitant le plus de main d’œuvre a été l’enduit terre sur u
 chambre a été faite le premier WE, et la seconde chambre plus quelques parties du couloir et de la future salle d’eau
 le second WE:
 
+<div class="gallery">
+    <a href="{attach}images/2018-printemps/terre_1_1.jpg">Open image 1 (gallery #1)</a>
+    <a href="{attach}images/2018-printemps/terre_1_2.jpg">Open image 2 (gallery #1)</a>
+</div>
+
 ![première chambre]({attach}images/2018-printemps/terre_1_1.jpg)
 ![première chambre]({attach}images/2018-printemps/terre_1_2.jpg)
 ![seconde chambre]({attach}images/2018-printemps/terre_2_1.jpg)

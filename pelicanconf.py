@@ -36,10 +36,14 @@ DEFAULT_PAGINATION = 3
 
 THEME = 'attila'
 HEADER_COVER = 'images/header.jpg'
-STATIC_PATHS = ['images', 'css']
+STATIC_PATHS = ['images', 'css', 'js']
 
-# PLUGIN_PATHS = ['pelican-plugins']
-# PLUGINS = ['liquid_tags.img']
 PLUGIN_PATHS = ['plugins', 'pelican-plugins']
 PLUGINS = ['nim_gallery', 'filetime_from_git']
-CSS_OVERRIDE = ['css/baroustan.css']
+CSS_OVERRIDE = ['css/baroustan.css', 'css/magnific-popup.css']
+JS_OVERRIDE = ['js/jquery.magnific-popup.js', 'js/gallery.js']
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.toc': {},
+    },
+}
