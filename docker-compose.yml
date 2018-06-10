@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  nginx:
+    build: .
+    restart: unless-stopped
+    networks:
+      - proxytanet
+    labels:
+      traefik.enable: "true"
+      traefik.frontend.rule: "Host: baroustan.${DOMAIN_NAME:-local}, www.baroustan.${DOMAIN_NAME:-local}"
+
+networks:
+  proxytanet:
+    external: true
+

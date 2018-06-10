@@ -38,11 +38,6 @@ La partie nécessitant le plus de main d’œuvre a été l’enduit terre sur u
 chambre a été faite le premier WE, et la seconde chambre plus quelques parties du couloir et de la future salle d’eau
 le second WE:
 
-<div class="gallery">
-    <a href="{attach}images/2018-printemps/terre_1_1.jpg">Open image 1 (gallery #1)</a>
-    <a href="{attach}images/2018-printemps/terre_1_2.jpg">Open image 2 (gallery #1)</a>
-</div>
-
 ![première chambre]({attach}images/2018-printemps/terre_1_1.jpg)
 ![première chambre]({attach}images/2018-printemps/terre_1_2.jpg)
 ![seconde chambre]({attach}images/2018-printemps/terre_2_1.jpg)
@@ -66,4 +61,15 @@ deux couches de peinture au plafond de la première chambre.
 ### Jardin
 
 La météo n’a pas été tout à fait digne d’un mois de mai, mais nous avons quand même eu quelques jours de beau temps, ce
-qui a permis de bien préparer le jardin.
+qui a permis de préparer le jardin. Celui-ci a été bien désherbé et bien nettoyé, comme vous pouvez le voir sur ces
+photos:
+
+![Jardin 1]({attach}images/2018-printemps/jardin_1.jpg)
+![Jardin 2]({attach}images/2018-printemps/jardin_2.jpg)
+![Jardin 3]({attach}images/2018-printemps/jardin_3.jpg)
+![Jardin 4]({attach}images/2018-printemps/jardin_4.jpg)
+
+### Merci à tous
+
+Merci à tous ceux qui ont participé ! Et pour les autres, ne vous en faites pas, il reste encore des choses à faire, et
+vous aurez largement l’occasion de venir découvrir les lieux !
