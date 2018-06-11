@@ -6,12 +6,12 @@ Category: Chantiers
 Un chantier participatif a été organisé du 28 avril au 13 mai 2018, et, grâce à un certain nombre de jours fériés, et
 malgré une organisation un peu trop légère, les choses ont très bien avancé.
 
-Ce billet est récapitule ce qui a été fait, dans le but principal de remercier tous les amis qui sont venus nous
+Ce billet récapitule ce qui a été fait, dans le but principal de remercier tous les amis qui sont venus nous
 aider :)
 
 ### Préparation des chambres du haut
 
-Les deux grandes chambres du haut ont été entièrrement vidées, afin de pouvoir y appliquer l’enduit terre. Outre les
+Les deux grandes chambres du haut ont été entièrement vidées, afin de pouvoir y appliquer l’enduit terre. Outre les
 meubles, nous avons tombé 3 cheminées, dont une traversait encore le toit. Il a donc fallu refaire la couverture,
 l’isolation, le placo, et le plancher. Cela a également créé un grand nombre de gravats (essentiellement des foraines
 crues (quoi que certaines avaient un peu cuit…) qui ont pu être désassemblées entières, mais qu’il a tout de même fallu
