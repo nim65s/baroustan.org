@@ -13,8 +13,8 @@ aider :)
 
 Les deux grandes chambres du haut ont été entièrement vidées, afin de pouvoir y appliquer l’enduit terre. Outre les
 meubles, nous avons tombé 3 cheminées, dont une traversait encore le toit. Il a donc fallu refaire la couverture,
-l’isolation, le placo, et le plancher. Cela a également créé un grand nombre de gravats (essentiellement des foraines
-crues (quoi que certaines avaient un peu cuit…) qui ont pu être désassemblées entières, mais qu’il a tout de même fallu
+l’isolation, le placo et le plancher. Cela a également créé un grand nombre de gravats (essentiellement des foraines
+crues, quoi que certaines avaient un peu cuit…) qui ont pu être désassemblées entières, mais qu’il a tout de même fallu
 évacuer. Ces gravats ont été utilisés pour monter un muret, stabilisant le terrain le long du chemin:
 
 ![muret de stabilisation du terrain, construit avec les gravats des cheminées]({attach}images/2018-printemps/mur.jpg)
@@ -48,7 +48,7 @@ Au total, c’est une dizaine de personne qui a aidé rien que sur cette partie,
 ### Plafonds
 
 5 poutres, fois 5 mètres par poutre, fois 2 chambres… Ça en fait du travail de décapage. C’était bruyant, salissant,
-exténuant, on a eu queqlues bobos (mon pouce s’en souviendra longtemps), mais ça valait le coup, les poutres sont à
+exténuant, on a eu quelques bobos (mon pouce s’en souviendra longtemps), mais ça valait le coup, les poutres sont à
 nouveau magnifiques.
 
 Après un coup d’enduit pour boucher les trous entre le placo et les poutres et les murs, nous avons même pu passer les
