@@ -21,9 +21,9 @@ crues, quoi que certaines avaient un peu cuit…) qui ont pu être désassemblé
 
 ### Rangement de la grange
 
-L’inconvénient avec les grands espaces, c’est qu’on a très vite tendance à les utiliser… Sauf qu’une fois qu’ils sont
-encombrés, on ne peut plus les utiliser pour des activités diverses. Après une bonne journée d’efforts, voici un aperçu
-du hangar rangé, ce qui n’était pas arrivé depuis la crémaillère, 7 ans auparavant:
+L’inconvénient avec les grands espaces, c’est qu’on a très vite tendance à les utiliser pour du stockage… Sauf qu’une
+fois qu’ils sont encombrés, on ne peut plus les utiliser pour des activités diverses. Après une bonne journée
+d’efforts, voici un aperçu du hangar rangé, ce qui n’était pas arrivé depuis la crémaillère, 7 ans auparavant:
 
 ![Hangar, vue de dedans]({attach}images/2018-printemps/hangar_1.jpg)
 ![Hangar, vue d’en haut]({attach}images/2018-printemps/hangar_2.jpg)
