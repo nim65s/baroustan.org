@@ -4,6 +4,8 @@ services:
   nginx:
     build: .
     restart: unless-stopped
+    env_file:
+      - .env
     networks:
       - proxytanet
     labels:
