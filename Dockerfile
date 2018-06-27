@@ -5,12 +5,11 @@ WORKDIR /app
 
 ADD Pipfile Pipfile.lock ./
 
-RUN apk update -q && apk add -q --no-cache \
+RUN apk update -q && apk add -q \
     git \
     py3-pillow \
- && pip3 install --no-cache-dir -U pip \
- && pip3 install --no-cache-dir \
-    pipenv \
+ && pip3 install -U pip \
+ && pip3 install pipenv \
  && pipenv install --system --deploy --pre
 
 ENV PYTHONPATH=/usr/lib/python3.6/site-packages
