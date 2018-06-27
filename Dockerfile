@@ -17,6 +17,8 @@ ENV PYTHONPATH=/usr/lib/python3.6/site-packages
 
 ADD . .
 
+ARG DOMAIN_NAME=local
+
 RUN pelican
 
 FROM nim65s/ndh:nginx
