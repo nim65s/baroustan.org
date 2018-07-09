@@ -18,7 +18,7 @@ sans colle) posés par-dessus viendront ensuite servir de finition.
 
 Pour cela, la théorie est assez simple: on met des tasseaux en douglas qui vont du sol au plafond tous les 60cm avec
 des chevilles à frapper dans la brique, sur lesquels on cloue des tasseaux horizontaux pour assurer suffisament
-d’espace pour souffler la ouate (au moins 8cm),
+d’espace pour souffler la ouate (au moins 8cm).
 
 On commence par faire ça sur 75m².
 
