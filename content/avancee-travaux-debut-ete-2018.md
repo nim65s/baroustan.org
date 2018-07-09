@@ -3,7 +3,7 @@ Category: Chantiers
 
 ## Baroustan entamme les vacances d’été
 
-Les ponts de mai passés, les travaux ne se sont pas arrêtés, loin de là.
+Les ponts de mai passés, et les vacances d’été arrivées, les travaux ne se sont pas arrêtés, loin de là.
 
 Même s’il n’y a pas eu d’organisation de chantiers participatifs impliquant une dizaine de personnes par jour, il y a
 quand même eu une bonne demi-douzaine de personne qui ont œuvré, en semaine comme le week-end, à l’avancée de la
