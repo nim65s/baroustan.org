@@ -1,7 +1,7 @@
 Title: Avancée des travaux, début de l’été 2018
 Category: Chantiers
 
-## Baroustan entamme les vacances d’été
+## Baroustan entame les vacances d’été
 
 Les ponts de mai passés, et les vacances d’été arrivées, les travaux ne se sont pas arrêtés, loin de là.
 
@@ -74,7 +74,7 @@ repousser la location de la machine à soufler la ouate.
 Les murs au sud ont moins besoin d’isolation, et en plus ils sont bien plus jolis. On décide donc de les garder nus et
 de les restaurer.
 
-Décapper un mur de brique, et refaire les joints (à la chaud et au sable, en reprennant celui utilisé pour l’enduit
+Décapper un mur de brique, et refaire les joints (à la chaux et au sable, en reprennant celui utilisé pour l’enduit
 terre), c’est très fastidieux, mais ça vaut le coup. (C’est pas encore tout à fait fini sur les photos)
 
 ![Brique 1]({attach}images/2018-ete/brique_1.jpg)
@@ -100,5 +100,5 @@ précédente ; on verra cet hiver s’il nous réchauffe toujours autant malgré
 C’est déjà beaucoup, mais la plomberie de la salle de bien a également bien avancé, et on a aussi progressé sur la
 mécanique.
 
-Un déménagement a aussi un peu commencé, puisque les deux nouveaux résidents --bientôt 3 ;)-- on prévus d’arriver le
+Un déménagement a aussi un peu commencé, puisque les deux nouveaux résidents --bientôt 3 ;)-- ont prévu d’arriver le
 dimanche 15 juillet. D’ailleurs, si vous n’avez rien de prévu à cette date, vos bras sont les bienvenus !
