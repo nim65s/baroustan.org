@@ -43,7 +43,7 @@ perdre les effets de lumière qu’ils créent en les cachant derrière l’isol
 
 ![Fenestron]({attach}images/2018-ete/fenestron.jpg)
 
-Une fois que c’est bon, on peut aggrapher le film pare-vapeur bien tendu là-dessus, puis remettre une couche de
+Une fois que c’est bon, on peut agrafer le film pare-vapeur bien tendu là-dessus, puis remettre une couche de
 tasseaux: un au sol, un au plafond, un horizontal tous les 1,20m (la hauteur des panneaux de bois que l’on mettra
 après), et puis des verticaux aussi.
 
