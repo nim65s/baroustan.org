@@ -6,18 +6,18 @@ Category: Chantiers
 Les ponts de mai passés, et les vacances d’été arrivées, les travaux ne se sont pas arrêtés, loin de là.
 
 Même s’il n’y a pas eu d’organisation de chantiers participatifs impliquant une dizaine de personnes par jour, il y a
-quand même eu une bonne demi-douzaine de personne qui ont œuvré, en semaine comme le week-end, à l’avancée de la
+quand même eu une bonne demie-douzaine de personnes qui ont œuvré, en semaine comme le week-end, à l’avancée de la
 rénovation de l’étage.
 
 ### Isolation
 
 Les murs extérieurs des deux grandes chambres du haut nécessitent une isolation (à part celui qui donne au sud). La
-solution retenue a été de la ouate de cellulose souflée, entre le mur et un film pare-vapeur. Des panneaux de sciure
-compressés (un genre de [medium](https://fr.wikipedia.org/wiki/Panneau_de_fibres_%C3%A0_densit%C3%A9_moyenne), mais
+solution retenue a été de la ouate de cellulose soufflée, entre le mur et un film pare-vapeur. Des panneaux de sciure
+compressée (un genre de [medium](https://fr.wikipedia.org/wiki/Panneau_de_fibres_%C3%A0_densit%C3%A9_moyenne), mais
 sans colle) posés par-dessus viendront ensuite servir de finition.
 
 Pour cela, la théorie est assez simple: on met des tasseaux en douglas qui vont du sol au plafond tous les 60cm avec
-des chevilles à frapper dans la brique, sur lesquels on cloue des tasseaux horizontaux pour assurer suffisament
+des chevilles à frapper dans la brique, sur lesquels on cloue des tasseaux horizontaux pour assurer suffisamment
 d’espace pour souffler la ouate (au moins 8cm).
 
 On commence par faire ça sur 75m².
@@ -28,7 +28,7 @@ On commence par faire ça sur 75m².
 ![Mur 4]({attach}images/2018-ete/tasseaux_verticaux_4.jpg)
 
 Sur ceci, on cloue à nouveau des tasseaux, qui doivent former entre eux tous une surface bien plane, bien verticale, et
-toujours espacée d’au moins 8cm du mur.
+toujours espacés d’au moins 8cm du mur.
 
 ![Mur 1]({attach}images/2018-ete/tasseaux_verticaux_5.jpg)
 ![Mur 2]({attach}images/2018-ete/tasseaux_verticaux_6.jpg)
@@ -67,15 +67,15 @@ Une dernière photo pour la route, qui récapitule les différentes étapes:
 La moitié haute du mur dont la partie basse a été enduite correspond à la partie derrière laquelle il n’y a pas la
 suite de la maison. C’est dans cette doublure que l’on fera passer les câbles du capteur solaire pour le second
 chauffe-eau, mais sa livraison a pris du retard, si bien qu’on n’a pas encore pu finaliser cette partie, et du
-repousser la location de la machine à soufler la ouate.
+repousser la location de la machine à souffler la ouate.
 
 ### Murs en briques
 
 Les murs au sud ont moins besoin d’isolation, et en plus ils sont bien plus jolis. On décide donc de les garder nus et
 de les restaurer.
 
-Décapper un mur de brique, et refaire les joints (à la chaux et au sable, en reprennant celui utilisé pour l’enduit
-terre), c’est très fastidieux, mais ça vaut le coup. (C’est pas encore tout à fait fini sur les photos)
+Décaper un mur de brique, et refaire les joints (à la chaux et au sable, en reprenant celui utilisé pour l’enduit
+terre), c’est très fastidieux, mais ça vaut le coup. (Ce n’est pas encore tout à fait fini sur les photos)
 
 ![Brique 1]({attach}images/2018-ete/brique_1.jpg)
 ![Brique 2]({attach}images/2018-ete/brique_2.jpg)
@@ -97,7 +97,7 @@ précédente ; on verra cet hiver s’il nous réchauffe toujours autant malgré
 
 ### C’est pas tout
 
-C’est déjà beaucoup, mais la plomberie de la salle de bien a également bien avancé, et on a aussi progressé sur la
+C’est déjà beaucoup, mais la plomberie de la salle de bain a également bien avancé, et on a aussi progressé sur la
 mécanique.
 
 Un déménagement a aussi un peu commencé, puisque les deux nouveaux résidents --bientôt 3 ;)-- ont prévu d’arriver le
