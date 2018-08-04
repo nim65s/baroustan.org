@@ -1,4 +1,4 @@
-FROM python:alpine3.7 as build
+FROM python:3.6-alpine as build
 
 RUN mkdir /app
 WORKDIR /app
@@ -10,7 +10,7 @@ RUN apk update -q && apk add -q \
     py3-pillow \
  && pip3 install -U pip \
  && pip3 install pipenv \
- && pipenv install --system --deploy --pre
+ && pipenv install --system --deploy
 
 ENV PYTHONPATH=/usr/lib/python3.6/site-packages
 
