@@ -84,7 +84,7 @@ terre), c’est très fastidieux, mais ça vaut le coup. (Ce n’est pas encore 
 
 Petite surprise, juste après avoir chassé les araignées pour décaper les poutres, refaire les joints, repeindre le
 plafond, et refaire l’enduit des murs, des guêpes maçonnes ont jugé bon de s’installer. Quand on choisi des matériaux
-bio, ça ne fait pas fuir les insectes…
+et des peintures bio, ça ne fait pas fuir les insectes…
 
 ![Nid]({attach}images/2018-ete/nid.jpg)
 
