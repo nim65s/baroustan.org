@@ -37,8 +37,8 @@ toujours espacée d’au moins 8cm du mur.
 
 Remarquez qu’au passage, on a fait passer les réseaux d’électricité, ethernet, et de chauffage dans la doublure.
 
-Là, avant d’ajouter la suite, on se rend compte que si les fenêtres principales ont déjà un cadre qui dépasse comme il
-faut prévu, les petits fenestrons n’en ont pas encore, donc il faut les faire et les fixer… Ce serait trop dommage de
+Là, avant d’ajouter la suite, on se rend compte que si on a déjà prévu pour les fenêtres principales un cadre qui dépasse comme il
+faut, les petits fenestrons n’en ont pas encore, donc il faut les faire et les fixer… Ce serait trop dommage de
 perdre les effets de lumière qu’ils créent en les cachant derrière l’isolation.
 
 ![Fenestron]({attach}images/2018-ete/fenestron.jpg)
