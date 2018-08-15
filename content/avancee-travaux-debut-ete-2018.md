@@ -28,7 +28,7 @@ On commence par faire ça sur 75m².
 ![Mur 4]({attach}images/2018-ete/tasseaux_verticaux_4.jpg)
 
 Sur ceci, on cloue à nouveau des tasseaux, qui doivent former entre eux tous une surface bien plane, bien verticale, et
-toujours espacés d’au moins 8cm du mur.
+toujours espacée d’au moins 8cm du mur.
 
 ![Mur 1]({attach}images/2018-ete/tasseaux_verticaux_5.jpg)
 ![Mur 2]({attach}images/2018-ete/tasseaux_verticaux_6.jpg)
