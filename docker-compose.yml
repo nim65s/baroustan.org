@@ -10,12 +10,11 @@ services:
     env_file:
       - .env
     networks:
-      - proxytanet
+      - web
     labels:
       traefik.enable: "true"
       traefik.frontend.rule: "Host: baroustan.${DOMAIN_NAME:-local}, www.baroustan.${DOMAIN_NAME:-local}"
 
 networks:
-  proxytanet:
+  web:
     external: true
-
