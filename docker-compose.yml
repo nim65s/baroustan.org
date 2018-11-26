@@ -5,7 +5,7 @@ services:
     build:
       context: .
       args:
-        - DOMAIN_NAME=${DOMAIN_NAME:-local}
+        - DOMAIN_NAME=${DOMAIN_NAME:-localhost}
     restart: unless-stopped
     env_file:
       - .env
@@ -13,7 +13,7 @@ services:
       - web
     labels:
       traefik.enable: "true"
-      traefik.frontend.rule: "Host: baroustan.${DOMAIN_NAME:-local}, www.baroustan.${DOMAIN_NAME:-local}"
+      traefik.frontend.rule: "Host: baroustan.${DOMAIN_NAME:-localhost}, www.baroustan.${DOMAIN_NAME:-localhost}"
 
 networks:
   web:

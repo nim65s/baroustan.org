@@ -2,8 +2,8 @@
 
 import os
 
-DOMAIN_NAME = os.environ.get('DOMAIN_NAME', 'local')
-HTTP = 'http' if DOMAIN_NAME == 'local' else 'https'
+DOMAIN_NAME = os.environ.get('DOMAIN_NAME', 'localhost')
+HTTP = 'http' if DOMAIN_NAME == 'localhost' else 'https'
 
 AUTHOR = 'Guilhem Saurel'
 SITENAME = 'Baroustan'

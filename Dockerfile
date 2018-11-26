@@ -1,22 +1,21 @@
-FROM python:3.6-alpine as build
+FROM alpine:3.8 as build
 
 RUN mkdir /app
 WORKDIR /app
 
-ADD Pipfile Pipfile.lock ./
-
-RUN apk update -q && apk add -q \
+RUN apk update -q && apk add -q --no-cache \
     git \
     py3-pillow \
- && pip3 install -U pip \
- && pip3 install pipenv \
- && pipenv install --system --deploy
+ && pip3 install --no-cache-dir -U pip \
+ && pip3 install --no-cache-dir \
+    pipenv
 
-ENV PYTHONPATH=/usr/lib/python3.6/site-packages
+ADD Pipfile Pipfile.lock ./
+RUN pipenv install --system --deploy
 
 ADD . .
 
-ARG DOMAIN_NAME=local
+ARG DOMAIN_NAME=localhost
 
 RUN pelican
 
