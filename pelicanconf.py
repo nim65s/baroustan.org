@@ -27,3 +27,15 @@ PLUGIN_PATHS = ['plugins', 'pelican-plugins']
 PLUGINS = ['nim_gallery', 'filetime_from_git']
 CSS_OVERRIDE = ['css/baroustan.css', 'css/magnific-popup.css']
 JS_OVERRIDE = ['js/jquery.magnific-popup.js', 'js/gallery.js']
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {
+            'css_class': 'highlight'
+        },
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {},
+    },
+    'output_format': 'html5',
+}
