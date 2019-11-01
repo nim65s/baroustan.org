@@ -7,7 +7,7 @@ name = "pypi"
 pelican = "*"
 markdown = "*"
 gitpython = "*"
-pillow = "==5.4.1"  # Pinned to alpine 3.8's version
+pillow = "==6.2.0"  # Pinned to alpine 3.8's version
 olefile = "==0.43"  # Pinned to alpine 3.8's version
 
 [dev-packages]
