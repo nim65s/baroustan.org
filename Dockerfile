@@ -1,6 +1,5 @@
 FROM alpine:3.9 as build
 
-RUN mkdir /app
 WORKDIR /app
 
 RUN apk update -q && apk add -q --no-cache \
