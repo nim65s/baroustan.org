@@ -13,7 +13,7 @@ services:
       - web
     labels:
       traefik.enable: "true"
-      traefik.frontend.rule: "Host: baroustan.${DOMAIN_NAME:-localhost}, www.baroustan.${DOMAIN_NAME:-localhost}"
+      traefik.http.routers.baroustan.rule: "Host(`baroustan.${DOMAIN_NAME:-localhost}`)"
 
 networks:
   web:

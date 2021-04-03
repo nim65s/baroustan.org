@@ -1,20 +1,15 @@
-FROM alpine:3.9 as build
+FROM python:3.9-slim as build
 
 WORKDIR /app
 
-RUN apk update -q && apk add -q --no-cache \
-    git \
-    py3-pillow \
- && pip3 install --no-cache-dir -U pip \
- && pip3 install --no-cache-dir \
-    pipenv
+RUN apt-get update -q && apt-get install -qqy git \
+ && pip install poetry
 
-ADD Pipfile Pipfile.lock ./
-RUN pipenv install --system --deploy
+ADD pyproject.toml poetry.lock ./
+RUN poetry config virtualenvs.create false --local \
+ && poetry install --no-dev --no-root --no-interaction --no-ansi
 
 ADD . .
-
-ARG DOMAIN_NAME=localhost
 
 RUN pelican
 

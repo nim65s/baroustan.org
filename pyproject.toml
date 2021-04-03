@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "baroustan"
+version = "0.1.0"
+description = "Baroustan Blog"
+authors = ["Guilhem Saurel <guilhem.saurel@laas.fr>"]
+license = "BSD-2-Clause"
+
+[tool.poetry.dependencies]
+python = "^3.6.1"
+pelican = "^4.6.0"
+Markdown = "^3.3.4"
+GitPython = "^3.1.14"
+Pillow = "^8.2.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
