@@ -13,6 +13,6 @@ ADD . .
 
 RUN pelican
 
-FROM nim65s/ndh:nginx
+FROM nim65s/ndh
 
 COPY --from=build /app/output /srv
